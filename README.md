@@ -26,9 +26,7 @@ I successfully implemented all required functionality and passed **all test case
 
 ---
 ## 🎮 How to Play
-  **1.**
-  **2.**
-**This is an example of a valid board for the game:*** 
+**This is an example of a valid board for the game:** 
   ```
        r  o  k
      +---------+
