@@ -6,7 +6,7 @@ The goal of this project was to implement a **Letter Boxed solution validator** 
 - Consecutive words connect by first and last letter.  
 - Letters on the same side are not used consecutively.  
 - Words appear in the provided dictionary.
-These are the same rules as found on the [New York Times](https://www.nytimes.com/puzzles/letter-boxed)
+# These are the same rules as found on the [New York Times](https://www.nytimes.com/puzzles/letter-boxed) #
 This project tested my ability to work with **file I/O, string processing, and dynamic memory management** in a structured C program.  
 
 ---
