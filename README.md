@@ -28,18 +28,32 @@ I successfully implemented all required functionality and passed **all test case
 ## 🎮 How to Play
   **1.**
   **2.**
-  **3.** This is an example of a valid board for the game: 
+**This is an example of a valid board for the game:*** 
   ```
-    r  o  k
-  +---------+
-  |         |
- w|         |e
-  |         |
- f|         |d
-  |         |
- a|         |n
-  |         |
-  +---------+
-    l  c  i
+       r  o  k
+     +---------+
+     |         |
+    w|         |e
+     |         |
+    f|         |d
+     |         |
+    a|         |n
+     |         |
+     +---------+
+       l  c  i
+```
+You can always check [today's](https://www.nytimes.com/puzzles/letter-boxed) Letter boxed puzzle here and make your own board as such. As I'm writing this, this was today's board:
+```
+       t  e  b
+     +---------+
+     |         |
+    s|         |w
+     |         |
+    v|         |i
+     |         |
+    a|         |h
+     |         |
+     +---------+
+       o  n  g
 ```
 
