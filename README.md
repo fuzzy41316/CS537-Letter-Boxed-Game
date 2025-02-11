@@ -55,8 +55,8 @@ You can always check [today's](https://www.nytimes.com/puzzles/letter-boxed) let
        o  n  g
 ```
 You can create your own board going into your terminal (zsh, powershell, cmd, my [wsh](https://github.com/fuzzy41316/CS537-Unix-Shell-WSH). The world is your oyster.), and typing this:
-```
-echo -e "teb\nwih\nong\nsva\n" > example.board
+```bash
+$ echo -e "teb\nwih\nong\nsva\n" > example.board
 ```
 The newline carriages ensure that the program can accurately determine all sides of the board. 
 If you were to check the file contents of example.board, then you should get this:
@@ -68,7 +68,7 @@ ong
 sva
 ```
 Once you have your board you can then begin the program. 
-```
-./letter-boxed board1.txt dict.txt
+```bash
+$ ./letter-boxed board1.txt dict.txt
 ```
 dict.txt is important, as it contains the dictionary of all allowable words you can use. It has a lot, so don't worry.
