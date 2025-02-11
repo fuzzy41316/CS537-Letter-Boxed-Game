@@ -29,7 +29,7 @@ I successfully implemented all required functionality and passed **all test case
   **1.**
   **2.**
   **3.** This is an example of a valid board for the game: 
-'''
+  ```
     r  o  k
   +---------+
   |         |
@@ -41,5 +41,5 @@ I successfully implemented all required functionality and passed **all test case
   |         |
   +---------+
     l  c  i
-'''
+```
 
