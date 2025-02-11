@@ -28,4 +28,18 @@ I successfully implemented all required functionality and passed **all test case
 ## 🎮 How to Play
   **1.**
   **2.**
-  **3.**
+  **3.** This is an example of a valid board for the game: 
+'''
+    r  o  k
+  +---------+
+  |         |
+ w|         |e
+  |         |
+ f|         |d
+  |         |
+ a|         |n
+  |         |
+  +---------+
+    l  c  i
+'''
+
