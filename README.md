@@ -54,7 +54,7 @@ You can always check [today's](https://www.nytimes.com/puzzles/letter-boxed) let
      +---------+
        o  n  g
 ```
-You can create your own board going into your terminal (zsh, powershell, cmd, my [wsh](https://github.com/fuzzy41316/CS537-Unix-Shell-WSH). The world is your oyster.), and typing this:
+You can create your own board going into a shell (zsh, bash, my [wsh](https://github.com/fuzzy41316/CS537-Unix-Shell-WSH). The world is your oyster.), and typing this:
 ```bash
 $ echo -e "teb\nwih\nong\nsva\n" > example.board
 ```
@@ -63,7 +63,7 @@ If you were to check the file contents of example.board, then you should get thi
 ```
 cat example.board
 teb
-nwih
+wih
 ong
 sva
 ```
