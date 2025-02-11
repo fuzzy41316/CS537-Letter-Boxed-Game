@@ -69,6 +69,6 @@ sva
 ```
 Once you have your board you can then begin the program. 
 ```bash
-$ ./letter-boxed board1.txt dict.txt
+$ ./letter-boxed example.board dict.txt
 ```
 dict.txt is important, as it contains the dictionary of all allowable words you can use. It has a lot, so don't worry.
