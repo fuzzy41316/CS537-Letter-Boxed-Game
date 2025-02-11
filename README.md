@@ -56,7 +56,7 @@ You can always check [today's](https://www.nytimes.com/puzzles/letter-boxed) let
 ```
 You can create your own board going into your terminal (zsh, powershell, cmd, my [wsh](https://github.com/fuzzy41316/CS537-Unix-Shell-WSH). The world is your oyster.). and typing this:
 ```
-printf "teb\nwih\nong\nsva\n" > example.board
+echo -e "teb\nwih\nong\nsva\n" > example.board
 ```
 The newline carriages ensure that the program can accurately determine all sides of the board. 
 If you were to check the file contents of example.board, then you should get this:
