@@ -25,3 +25,7 @@ This assignment helped me refine my **C programming** skills and reinforced seve
 I successfully implemented all required functionality and passed **all test cases**, achieving **100% on the assignment**. This project was a great refresher on lower-level programming and reinforced best practices for writing clean, efficient C code.  
 
 ---
+## 🎮 How to Play
+  **1.**
+  **2.**
+  **3.**
