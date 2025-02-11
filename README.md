@@ -11,7 +11,7 @@ The goal of this project was to implement a **Letter Boxed solution validator** 
 
 ---
 
-## 🎯 What I Learned  
+## 🎯 What I (re)Learned  
 This assignment helped me refine my **C programming** skills and reinforced several key concepts:  
 ✅ **File Handling in C** – Reading and parsing structured input files efficiently.  
 ✅ **String Processing** – Validating words and enforcing game rules using string manipulation.  
@@ -42,7 +42,7 @@ I successfully implemented all required functionality and passed **all test case
      +---------+
        l  c  i
 ```
-You can always check [today's](https://www.nytimes.com/puzzles/letter-boxed) Letter boxed puzzle here and make your own board as such. As I'm writing this, this was today's board:
+You can always check [today's](https://www.nytimes.com/puzzles/letter-boxed) letter boxed puzzle here and make your own boar. As I'm writing this, this was today's board:
 ```
        t  e  b
      +---------+
@@ -56,4 +56,7 @@ You can always check [today's](https://www.nytimes.com/puzzles/letter-boxed) Let
      +---------+
        o  n  g
 ```
-
+You can create your own board going into your terminal (zsh, powershell, cmd, my [wsh](https://github.com/fuzzy41316/CS537-Unix-Shell-WSH). The world is your oyster.). and typing this:
+```
+echo teb\nwih\nong\nsva\n > example.board
+```
