@@ -77,3 +77,4 @@ Playing with the previous board, a valid solution out of many could be:
 givens
 showboat
 ```
+And this is what you type into the console. Words that aren't in the dictionary cannot be used - so words that aren't words. Have fun!
