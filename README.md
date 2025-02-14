@@ -77,4 +77,4 @@ Playing with the previous board, a valid solution out of many could be:
 givens
 showboat
 ```
-And this is what you type into the console. Words that aren't in the dictionary cannot be used - so words that aren't words. Have fun!
+And this is what you type into the console. Words that aren't in the dictionary cannot be used - so words that aren't words. "givens" would provide an error here. If you provide the incorrect input in the form of violating the dictionary or the board, the program exits, and you need to start it up again. So make sure you follow the rules! Have fun!
